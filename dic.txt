@@ -1,0 +1,1 @@
+[{'english': 'apple', 'persion': 'sib'}, {'english': 'tree', 'persion': 'derakht'}, {'english': 'i', 'persion': 'man'}, {'english': 'this', 'persion': 'in'}]

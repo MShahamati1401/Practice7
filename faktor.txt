@@ -1,0 +1,1 @@
+['2204301021', 'ghand:Meghdar = 1 adad ** Total Price = 12000', 'shekar:Meghdar = 1 adad ** Total Price = 15000', 'roghan:Meghdar = 1 adad ** Total Price = 45000', 'total-price-faktor: 72000', 'end']['2204301022', 'ghand:Meghdar = 2 adad ** Total Price = 24000', 'gandom:Meghdar = 2 adad ** Total Price = 12000', 'total-price-faktor: 36000', 'end']
